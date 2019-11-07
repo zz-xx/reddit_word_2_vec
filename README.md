@@ -18,6 +18,6 @@ Code refactor and flask based web interface for changing various parameters and 
 
 Front end templates taken from [Colorlib](https://colorlib.com/).
 
-https://github.com/zz-xx/reddit_word_2_vec/blob/master/imgs/home.PNG
+![](https://github.com/zz-xx/reddit_word_2_vec/blob/master/imgs/home.PNG)
 
-https://github.com/zz-xx/reddit_word_2_vec/blob/master/imgs/out.PNG
+![](https://github.com/zz-xx/reddit_word_2_vec/blob/master/imgs/out.PNG)
